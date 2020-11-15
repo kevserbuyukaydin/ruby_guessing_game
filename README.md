@@ -1,2 +1,2 @@
 # rubygame
-Ruby Rails Bootcamp de oyun projesi
+Ruby on Rails Bootcamp guessing game
